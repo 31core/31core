@@ -1,6 +1,5 @@
 # 31core
-Hi, I'm 31core, a personal developer, and also a Anime OTAKU.
-If we have the same interests, please follow me and feel free to communicate with me.
+Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in low-level technologies such as Linux kernel and compiler. If we have the same (or samilar) interests, please follow me and feel free to communicate with me.
 
 ## Status
 * Still learning Japanese
@@ -14,17 +13,32 @@ If we have the same interests, please follow me and feel free to communicate wit
 
 ## Technologies of Interest
 [Linux Kerenl](https://kernel.org)<br>
-WebAssembly
+[WebAssembly](https://webassembly.org)
 
 ## Future Plans
 * Implement the basic functions of my video codec.
 * Pass the Japanese N4 examination next year.
 
 ## Software Stacks
-OS: [Ubuntu](https://ubuntu.com)<br>
+OS: [Ubuntu](https://ubuntu.com) and macOS<br>
 Code Editor: [VSCode](https://code.visualstudio.com)<br>
-Web Browser: [Firefox](https://www.mozilla.org/firefox)<br>
+Web Browser: [Firefox](https://www.mozilla.org/firefox) and Safari<br>
 Virtual Machine: [VirtualBox](https://www.virtualbox.org)
+
+## My Hardwares
+### Apple M2 MacBook Air
+* RAM: 8GB
+* Storage: 256GB
+
+### Dell PowerEdge R710
+* CPU: 2x Intel Xeon X5650
+* RAM: 80GB
+* Storage: 1.2TB
+
+### HP Desktop
+* CPU: Intel Core i3-9100
+* RAM: 12GB
+* Storage: 256GB SDD + 1TB HDD
 
 ## Contact
 Twitter: [@ul31core](https://twitter.com/ul31core)<br>
