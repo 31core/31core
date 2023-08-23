@@ -5,24 +5,24 @@ Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in 
 * Still learning Japanese
 
 ## Languages
-80% [Rust](https://rust-lang.org)<br>
-50% C<br>
-20% [Golang](https://golang.org)<br>
-10% JavaScript<br>
+80% [Rust](https://rust-lang.org)  
+50% C  
+20% [Golang](https://golang.org)  
+10% JavaScript  
 5% x86 Assembly
 
 ## Technologies of Interest
-[Linux Kerenl](https://kernel.org)<br>
+[Linux Kerenl](https://kernel.org)  
 [WebAssembly](https://webassembly.org)
 
 ## Future Plans
-* Implement the basic functions of my video codec.
+* Implement the basical functions of my video codec.
 * Pass the Japanese N4 examination next year.
 
 ## Software Stacks
-OS: [Ubuntu](https://ubuntu.com) and macOS<br>
-Code Editor: [VSCode](https://code.visualstudio.com)<br>
-Web Browser: [Firefox](https://www.mozilla.org/firefox) and Safari<br>
+OS: [Ubuntu](https://ubuntu.com) and macOS  
+Code Editor: [VSCode](https://code.visualstudio.com)  
+Web Browser: [Firefox](https://www.mozilla.org/firefox) and Safari  
 Virtual Machine: [VirtualBox](https://www.virtualbox.org)
 
 ## My Hardwares
@@ -38,12 +38,12 @@ Virtual Machine: [VirtualBox](https://www.virtualbox.org)
 ### HP Desktop
 * CPU: Intel Core i3-9100
 * RAM: 12GB
-* Storage: 256GB SDD + 1TB HDD
+* Storage: 256GB SSD + 1TB HDD
 
 ## Contact
-Twitter: [@ul31core](https://twitter.com/ul31core)<br>
-Website: https://31core.pythonanywhere.com<br>
-Email: im31core@gmail.com (for work)<br>
+Twitter: [@ul31core](https://twitter.com/ul31core)  
+Website: https://31core.pythonanywhere.com  
+Email: im31core@gmail.com (for work)  
 &ensp;&ensp;&ensp;&ensp;&ensp;
-31core@tutanota.com (anything)<br>
+31core@tutanota.com (anything)  
 Bilibili: [@31core](https://space.bilibili.com/417911876)
