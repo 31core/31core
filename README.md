@@ -21,8 +21,8 @@ Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in 
 
 ## Future Plans
 
-* Implement the basical functions of my video codec.
-* Pass the Japanese N4 examination next year.
+* [ ] Implement the basical functions of my video codec.
+* [ ] Pass the Japanese N4 examination next year.
 
 ## Software Stacks
 
@@ -31,7 +31,7 @@ Code Editor: [VSCode](https://code.visualstudio.com)
 Web Browser: [Firefox](https://www.mozilla.org/firefox) and Safari  
 Virtual Machine: [VirtualBox](https://www.virtualbox.org)  
 Markdown Editor: [Obsidian](https://obsidian.md)  
-Proxy Client: [v2rayA](https://github.com/v2rayA/v2rayA)
+Proxy Client: [Clash Verge Rev](https://clash-verge-rev.github.io)
 
 ## My Hardwares
 
