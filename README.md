@@ -16,7 +16,7 @@ Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in 
 
 ## Technologies of Interest
 
-[Linux Kerenl](https://kernel.org)  
+[Linux Kernel](https://kernel.org)  
 [WebAssembly](https://webassembly.org)
 
 ## Future Plans
@@ -31,7 +31,7 @@ Code Editor: [VSCode](https://code.visualstudio.com)
 Web Browser: [Firefox](https://www.mozilla.org/firefox) and Safari  
 Virtual Machine: [VirtualBox](https://www.virtualbox.org)  
 Markdown Editor: [Obsidian](https://obsidian.md)  
-Proxy Client: [Clash Verge Rev](https://clash-verge-rev.github.io)
+Proxy Client: [sing-box](https://sing-box.sagernet.org)
 
 ## My Hardwares
 
@@ -54,7 +54,7 @@ Proxy Client: [Clash Verge Rev](https://clash-verge-rev.github.io)
 
 ## Contact
 
-Twitter: [@ul31core](https://twitter.com/ul31core)  
+X: [@ul31core](https://x.com/ul31core)  
 Website: <https://31core.pythonanywhere.com>  
 Email: <im31core@gmail.com> (for work)  
 &ensp;&ensp;&ensp;&ensp;&ensp;
