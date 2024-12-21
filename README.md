@@ -4,7 +4,7 @@ Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in 
 
 ## Status
 
-* Still learning Japanese
+* neko (?)
 
 ## Languages
 
@@ -54,9 +54,11 @@ Proxy Client: [sing-box](https://sing-box.sagernet.org)
 
 ## Contact
 
-X: [@ul31core](https://x.com/ul31core)  
-Website: <https://31core.pythonanywhere.com>  
-Email: <im31core@gmail.com> (for work)  
-&ensp;&ensp;&ensp;&ensp;&ensp;
-<31core@tutanota.com> (anything)  
-Bilibili: [@31core](https://space.bilibili.com/417911876)
+```yaml
+X: https://x.com/ul31core 
+Website: https://31core.pythonanywhere.com 
+Email:
+  - mailto:im31core@gmail.com #for work
+  - mailto:31core@tutanota.com # anything
+Bilibili: https://space.bilibili.com/417911876
+```
