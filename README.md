@@ -1,6 +1,6 @@
 # 31core
 
-Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in low-level technologies such as Linux kernel and compiler. If we have the same (or samilar) interests, please follow me and feel free to communicate with me.
+Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in low-level technologies such as Linux kernel and compiler. Practising the piano.
 
 ## Status
 
@@ -12,26 +12,27 @@ Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in 
 50% C  
 20% [Golang](https://golang.org)  
 10% JavaScript  
-5% x86 Assembly
 
 ## Technologies of Interest
 
 [Linux Kernel](https://kernel.org)  
 [WebAssembly](https://webassembly.org)
 
-## Future Plans
+## 🗓️ Future Plans
 
-* [ ] Implement the basical functions of my video codec.
-* [ ] Pass the Japanese N4 examination next year.
+* [ ] ~~Implement the basical functions of my video codec.~~
+* [ ] ~~Pass the Japanese N4 examination next year.~~
+* [ ] ✈️🗼 A travel to Tokyo, Japan.
 
-## Software Stacks
+## 💾 Software Stacks
 
 OS: [Ubuntu](https://ubuntu.com) and macOS  
 Code Editor: [VSCode](https://code.visualstudio.com)  
 Web Browser: [Firefox](https://www.mozilla.org/firefox) and Safari  
 Virtual Machine: [VirtualBox](https://www.virtualbox.org)  
-Markdown Editor: [Obsidian](https://obsidian.md)  
-Proxy Client: [sing-box](https://sing-box.sagernet.org)
+Proxy Client: [sing-box](https://sing-box.sagernet.org)  
+Media player: [VLC](https://www.videolan.org/vlc)  
+DAW: [Waveform](https://www.tracktion.com/products/waveform-free)
 
 ## My Hardwares
 
@@ -52,10 +53,13 @@ Proxy Client: [sing-box](https://sing-box.sagernet.org)
 * RAM: 12GB
 * Storage: 256GB SSD + 1TB HDD
 
-## Contact
+### 🎹 Roland FP-18
+
+## ☎️ Contact
 
 ```yaml
-X: https://x.com/ul31core 
+Session: 05987de66086520e9a032b42e3cd41e84335d70756856a055227be7326a8c5fb21
+X: https://x.com/im31core 
 Website: https://31core.pythonanywhere.com 
 Email:
   - mailto:im31core@gmail.com #for work
