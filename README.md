@@ -1,6 +1,6 @@
 # 31core
 
-Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in low-level technologies such as Linux kernel and compiler. Practising the piano.
+Hi, 31coreです、中国からの大学２年生です、君に会う嬉しい。
 
 ## Status
 
@@ -22,7 +22,7 @@ Hi, I'm 31core, a personal developer, and also a Anime OTAKU. I'm interested in 
 
 * [ ] ~~Implement the basical functions of my video codec.~~
 * [ ] ~~Pass the Japanese N4 examination next year.~~
-* [ ] ✈️🗼 A travel to Tokyo, Japan.
+* [x] ✈️🗼 東京を旅行します.
 
 ## 💾 Software Stacks
 
@@ -59,8 +59,8 @@ DAW: [Waveform](https://www.tracktion.com/products/waveform-free)
 
 ```yaml
 Session: 05987de66086520e9a032b42e3cd41e84335d70756856a055227be7326a8c5fb21
-X: https://x.com/im31core 
-Website: https://31core.pythonanywhere.com 
+X: https://x.com/im31core
+Website: https://31core.pythonanywhere.com
 Email:
   - mailto:im31core@gmail.com #for work
   - mailto:31core@tutanota.com # anything
