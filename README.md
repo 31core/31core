@@ -2,29 +2,19 @@
 
 Hi, 31coreです、中国からの大学２年生です、君に会う嬉しい。
 
-## Status
-
-* neko (?)
-
-## Languages
+## プログラミング言語
 
 80% [Rust](https://rust-lang.org)  
 50% C  
 20% [Golang](https://golang.org)  
 10% JavaScript  
 
-## Technologies of Interest
+## 🗓️ 今後の計画
 
-[Linux Kernel](https://kernel.org)  
-[WebAssembly](https://webassembly.org)
+* [x] ✈️🗼 東京を旅行します。
+* [ ] 📝 N2を合格します。
 
-## 🗓️ Future Plans
-
-* [ ] ~~Implement the basical functions of my video codec.~~
-* [ ] ~~Pass the Japanese N4 examination next year.~~
-* [x] ✈️🗼 東京を旅行します.
-
-## 💾 Software Stacks
+## 💾 ソフトウェア
 
 OS: [Ubuntu](https://ubuntu.com) and macOS  
 Code Editor: [VSCode](https://code.visualstudio.com)  
@@ -34,7 +24,7 @@ Proxy Client: [sing-box](https://sing-box.sagernet.org)
 Media player: [VLC](https://www.videolan.org/vlc)  
 DAW: [Waveform](https://www.tracktion.com/products/waveform-free)
 
-## My Hardwares
+## ハードウェア
 
 ### Apple M2 MacBook Air
 
@@ -53,16 +43,18 @@ DAW: [Waveform](https://www.tracktion.com/products/waveform-free)
 * RAM: 12GB
 * Storage: 256GB SSD + 1TB HDD
 
-### 🎹 Roland FP-18
+### 🎹 ピアノ
+* Roland FP-18
+* KAWAI CA 401
 
-## ☎️ Contact
+## ☎️ 連絡方法
 
 ```yaml
 Session: 05987de66086520e9a032b42e3cd41e84335d70756856a055227be7326a8c5fb21
 X: https://x.com/im31core
 Website: https://31core.pythonanywhere.com
 Email:
-  - mailto:im31core@gmail.com #for work
-  - mailto:31core@tutanota.com # anything
+  - mailto:im31core@gmail.com
+  - mailto:31core@tutanota.com
 Bilibili: https://space.bilibili.com/417911876
 ```
