@@ -1,6 +1,6 @@
 # 31core
 
-Hi, 31coreです、中国からの大学２年生です、君に会う嬉しい。
+Hi, 31coreです、中国からの大学３年生です、君に会う嬉しい。
 
 ## プログラミング言語
 
@@ -19,10 +19,10 @@ Hi, 31coreです、中国からの大学２年生です、君に会う嬉しい�
 OS: [Ubuntu](https://ubuntu.com) and macOS  
 Code Editor: [VSCode](https://code.visualstudio.com)  
 Web Browser: [Firefox](https://www.mozilla.org/firefox) and Safari  
-Virtual Machine: [VirtualBox](https://www.virtualbox.org)  
+Virtual Machine: [QEMU](https://qemu.org/) and VMware  
 Proxy Client: [sing-box](https://sing-box.sagernet.org)  
 Media player: [VLC](https://www.videolan.org/vlc)  
-DAW: [Waveform](https://www.tracktion.com/products/waveform-free)
+DAW: [Cubase](https://www.steinberg.net/cubase)
 
 ## ハードウェア
 
